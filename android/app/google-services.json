@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844772830887",
+    "project_id": "set-jet-go",
+    "storage_bucket": "set-jet-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844772830887:android:1573959f8e613c7f37f582",
+        "android_client_info": {
+          "package_name": "com.example.set_jet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844772830887-5m9qcsbsdalj09q9qo88nuu4g9d9lo9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdoxKcbyfsXc6OmLeCKx6pKlK8s_96_yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844772830887-5m9qcsbsdalj09q9qo88nuu4g9d9lo9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

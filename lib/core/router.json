@@ -1,0 +1,80 @@
+{
+    "last_updated": "Wed, 20 Apr 2022 11:03:16 GMT",
+    "routes": [
+        {
+            "file_path": "views/welcome/welcome_view.dart",
+            "route_name": "welcomeViewRoute",
+            "view_name": "WelcomeView"
+        },
+        {
+            "file_path": "views/pre_login/pre_login_view.dart",
+            "route_name": "pre_loginViewRoute",
+            "view_name": "PreLoginView"
+        },
+        {
+            "file_path": "views/login_screen/login_screen_view.dart",
+            "route_name": "login_screenViewRoute",
+            "view_name": "LoginScreenView"
+        },
+        {
+            "file_path": "views/post_login_screen/post_login_screen_view.dart",
+            "route_name": "post_login_screenViewRoute",
+            "view_name": "PostLoginScreenView"
+        },
+        {
+            "file_path": "views/time_zone_setting/time_zone_setting_view.dart",
+            "route_name": "time_zone_settingViewRoute",
+            "view_name": "TimeZoneSettingView"
+        },
+        {
+            "file_path": "views/home/home_view.dart",
+            "route_name": "homeViewRoute",
+            "view_name": "HomeView"
+        },
+        {
+            "file_path": "views/messages_screen/messages_screen_view.dart",
+            "route_name": "messages_screenViewRoute",
+            "view_name": "MessagesScreenView"
+        },
+        {
+            "file_path": "views/chatbox_screen/chatbox_screen_view.dart",
+            "route_name": "chatbox_screenViewRoute",
+            "view_name": "ChatboxScreenView"
+        },
+        {
+            "file_path": "views/search/search_view.dart",
+            "route_name": "searchViewRoute",
+            "view_name": "SearchView"
+        },
+        {
+            "file_path": "views/user_setting_screeb/user_setting_screeb_view.dart",
+            "route_name": "user_setting_screebViewRoute",
+            "view_name": "UserSettingScreebView"
+        },
+        {
+            "file_path": "views/search_results/search_results_view.dart",
+            "route_name": "search_resultsViewRoute",
+            "view_name": "SearchResultsView"
+        },
+        {
+            "file_path": "views/charter_details/charter_details_view.dart",
+            "route_name": "charter_detailsViewRoute",
+            "view_name": "CharterDetailsView"
+        },
+        {
+            "file_path": "views/booked_charters/booked_charters_view.dart",
+            "route_name": "booked_charterViewRoute",
+            "view_name": "BookCharterView"
+        },
+        {
+            "file_path": "views/booked_charter_detail/booked_charter_detail_view.dart",
+            "route_name": "booked_charter_detailViewRoute",
+            "view_name": "BookedCharterDetailView"
+        },
+        {
+            "file_path": "views/sent_request/sent_request_view.dart",
+            "route_name": "sent_requestViewRoute",
+            "view_name": "SentRequestView"
+        }
+    ]
+}

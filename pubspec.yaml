@@ -1,0 +1,65 @@
+name: set_jet
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  animated_theme_switcher: ^2.0.6
+  cupertino_icons: ^1.0.5
+  google_fonts: ^3.0.1
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.5.3+2
+  flutter_chat_bubble: ^2.0.0
+  get_it: ^7.2.0
+  get_storage: ^2.0.3
+  intl_phone_field: ^3.1.0
+  toggle_switch: ^2.0.1
+  pin_code_text_field: ^1.8.0
+  logger: ^1.1.0
+  page_view_indicators: ^2.0.0
+  responsive_builder: ^0.4.2
+  smooth_page_indicator: ^1.0.0+2
+  stacked: ^2.3.15
+  stacked_services:
+    ^0.9.4
+
+    #backend dependencies
+  cloud_firestore: ^3.4.3
+  firebase_auth: ^3.6.2
+  snack: ^2.0.0
+  flutter_spinkit: ^5.1.0
+  firebase_core: ^1.20.0
+  image_picker: ^0.8.5+3
+  firebase_storage: ^10.3.4
+  permission_handler: ^10.0.0
+  http: ^0.13.5
+  darq: ^1.2.1
+  google_maps_flutter: ^2.1.10
+  flutter_typeahead: ^4.0.0
+  shared_preferences: ^2.0.15
+  flutter_facebook_auth: ^4.4.0+1
+  flutter_stripe: ^4.0.0
+  google_sign_in: ^5.4.1
+  provider: ^6.0.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/social_Icon/
+    - assets/icons/
+    - assets/settingIcon/
